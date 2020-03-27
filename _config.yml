@@ -35,10 +35,17 @@ include:
   - _pages
 
 
+## ヘッダメニューに登録したい固定ページを並び順に記述する（postは反映されない)
+## この部分がない場合には  _pagesに入っているファイルすべてがメニューに登録される（ので全部表示するならそれでも良い）
+header_pages:
+  - _pages/01about.md
+  - _pages/02projects.md
+  - _pages/03members.md
+  - _pages/04publications.md
+  - _pages/05lectures.md
 
 
-
-# Exclude from processing.
+  # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:

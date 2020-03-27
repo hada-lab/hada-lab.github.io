@@ -6,7 +6,7 @@ layout: home
 
 ---
 
- ![トップ画像](assets/images/main.jpg)
+ ![トップ画像](/assets/images/main.jpg)
 
 XX研究室は「歌って踊れるインターネット」を合言葉に，身体性のあるエンタテインメントとインタラクション技術について研究しています．
 
