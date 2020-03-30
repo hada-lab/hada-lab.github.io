@@ -5,7 +5,7 @@ permalink: /members/
 ---
 
 # Faculty
-- <img src="/assets/images/face.jpg" width=120px> 研究太郎
+- ![顔]("/assets/images/face.jpg" width=120) 研究太郎
 
 # 大学院生
 - 大学院生その１
